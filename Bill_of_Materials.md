@@ -2,7 +2,7 @@
 The prices are sourced from amazon as that is where I sourced them myself.
 
 ## Amazon cart
-![Amazon Cart](images/Bill_of_Materials_cart.png)
+![Amazon Cart](Bill_of_Materials_cart.png)
 
 ## Turret:
 
